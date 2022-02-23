@@ -1,0 +1,41 @@
+html, body
+{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-size: 25px;
+    background-color: #313131;
+    color: white;
+}
+
+.container
+{
+    text-align: center;
+    margin-top: 1%;
+}
+
+.container button, input
+{
+    text-align: center;
+    width: 12%;
+    font-size: 25px;
+    margin-bottom: 10px;
+    background-color: white;
+    border-radius: 11px;
+}
+
+.name, .counter
+{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+.elements
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    display: block;
+}
